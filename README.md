@@ -6,7 +6,7 @@
 ![inkyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=grapestore&show_icons=true&theme=buefy)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=strawJI)](https://solved.ac/strawji)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bofde)](https://solved.ac/bofde)
 
 ## Tech
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
