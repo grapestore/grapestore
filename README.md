@@ -20,7 +20,7 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![Arduino](https://img.shields.io/badge/arduino-%230A0FF9.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/arduino-%23007ACC.svg?style=for-the-badge&logo=arduino&logoColor=white)
 
 ## Code management
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
