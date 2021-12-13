@@ -5,8 +5,7 @@
 
 ![inkyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=grapestore&show_icons=true&theme=buefy)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bofde)](https://solved.ac/bofde)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bofde)](https://solved.ac/bofde)
 
 ## Language
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -17,7 +16,6 @@
 ## Frame work
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![Arduino](https://img.shields.io/badge/arduino-%23007ACC.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 
