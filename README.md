@@ -5,8 +5,6 @@
 
 ![inkyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=grapestore&show_icons=true&theme=buefy)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bofde)](https://solved.ac/bofde)
-
 ![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/87048860/159155716-6083c34b-4208-41f6-bfeb-2c0b1458be20.png)
 
 ## Language
